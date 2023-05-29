@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/105/526/545/blur-gaussian-gradient-multicolor-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Yatra One', cursive;
+}
+
+h1 {
+    background-color: rgb(138, 98, 176);
+    color: aliceblue;
+    width: 30%;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+h4 {
+    background-color: rgb(138, 98, 176);
+    color: aliceblue;
+    width: 15%;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgb(0, 0, 0);
+}
